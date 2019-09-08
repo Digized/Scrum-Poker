@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aced908691a2b34b41bb250382a13d6d",
+    "revision": "21d0b82feb96558c86e67a309d671581",
     "url": "/Scrum-Poker/index.html"
   },
   {
